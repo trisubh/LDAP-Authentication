@@ -1,0 +1,11 @@
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\bin\Debug\netcoreapp2.2\ValidateLDAP.deps.json
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\bin\Debug\netcoreapp2.2\ValidateLDAP.runtimeconfig.json
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\bin\Debug\netcoreapp2.2\ValidateLDAP.runtimeconfig.dev.json
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\bin\Debug\netcoreapp2.2\ValidateLDAP.dll
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\bin\Debug\netcoreapp2.2\ValidateLDAP.pdb
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\obj\Debug\netcoreapp2.2\ValidateLDAP.csprojAssemblyReference.cache
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\obj\Debug\netcoreapp2.2\ValidateLDAP.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\obj\Debug\netcoreapp2.2\ValidateLDAP.AssemblyInfoInputs.cache
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\obj\Debug\netcoreapp2.2\ValidateLDAP.AssemblyInfo.cs
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\obj\Debug\netcoreapp2.2\ValidateLDAP.dll
+C:\Users\Saurabh.Tripathi\source\repos\ValidateLDAP\ValidateLDAP\obj\Debug\netcoreapp2.2\ValidateLDAP.pdb
